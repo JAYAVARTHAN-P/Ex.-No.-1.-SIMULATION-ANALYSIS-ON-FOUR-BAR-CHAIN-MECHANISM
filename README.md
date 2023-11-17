@@ -54,6 +54,9 @@
 
 ## Output:
 
+![emp1](https://github.com/JAYAVARTHAN-P/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/121369281/6b62f92e-8855-486a-96cf-d0e2fb9ea5d2)
+
+
 
 ### Name: JAYAVARTHAN P
 ### Register Number: 212222100015 
